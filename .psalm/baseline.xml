@@ -866,7 +866,7 @@
       <code>hasCacheDirectory</code>
       <code>hasCacheResultFile</code>
     </DeprecatedMethod>
-    <MissingThrowsDocblock occurrences="29">
+    <MissingThrowsDocblock occurrences="31">
       <code>addTestFile</code>
       <code>addTestFiles</code>
       <code>argument</code>
@@ -880,6 +880,8 @@
       <code>cacheDirectory</code>
       <code>cacheDirectory</code>
       <code>cacheDirectory</code>
+      <code>cacheResult</code>
+      <code>cacheResult</code>
       <code>cacheResultFile</code>
       <code>cacheResultFile</code>
       <code>cacheResultFile</code>
